@@ -1,3 +1,3 @@
 # wfdszrf965-pixel.github.io
-steadicam website
-:)
+steadicam website :)
+
