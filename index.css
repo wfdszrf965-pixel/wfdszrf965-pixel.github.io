@@ -12,7 +12,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background: white;
+    background: green;
     z-index: 999;
     display: flex;
     justify-content: center;
