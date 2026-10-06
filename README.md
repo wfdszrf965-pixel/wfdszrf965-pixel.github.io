@@ -2,7 +2,7 @@
     <head>
 
       
-    </head>
+</head>
 <body>
   <h1> 
   Matt Lima | Steadicam Op | SOA, SOC Assoc. 
