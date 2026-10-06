@@ -1,5 +1,6 @@
 # wfdszrf965-pixel.github.io
-<h1> Matt Lima | Steadicam Op | SOA, SOC Assoc. </h1>
+<h1>  </h1>
+Matt Lima | Steadicam Op | SOA, SOC Assoc. 
 steadicam website :)   ** gear ** 
 
 
